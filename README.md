@@ -1,4 +1,4 @@
-# Get-hidden-Channel-ID-s-Script
+# Phone-Email-verification-bypass
 **Bypass Phone and email verification in server, this cannot let you send message but you still can connect and and talk in voice channels.**
 
 
